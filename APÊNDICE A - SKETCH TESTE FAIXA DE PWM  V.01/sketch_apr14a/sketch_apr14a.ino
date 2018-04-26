@@ -1,3 +1,10 @@
+/*
+ *Autor: Hugo Pinheiro da Silva e Leonadro de Andrade Platon
+ *Data: 10/05/2017
+ *Licença: Distribuição livre
+ *Projeto e código disponivel em : https://github.com/HugoPsilvamcp/Hugo
+*/
+
 //Pino  de  controle  do  motor
 int  pinoDig  =  3;//Definindo  o  pino  digital  3  como  inteiro, é  pino  de  controle  do  motor-saida  do  pulso  PWM.
 //Declarando variavel  para  receber  o  meu  comando de + ou -
